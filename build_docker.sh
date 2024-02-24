@@ -1,1 +1,1 @@
-docker build --rm -t earnings-docker .
+docker build --rm -t earnings-docker . 
